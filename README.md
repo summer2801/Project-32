@@ -10,6 +10,6 @@ You can get upto __360__ points.
 Press the space key for another chance.
 
 ## Why is the background changing?
-The background changes according to the **IST** timezone. It is a bright, sunny background from 6:00 AM to 7:00 PM, and a beautiful, starry night during other times.
+The background changes according to the **BST** timezone. It is a bright, sunny background from 6:00 AM to 6:00 PM, and a beautiful, starry night during other times.
 
 # Thank you for playing this game, I hope you enjoy it! 😊
